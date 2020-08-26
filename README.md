@@ -2,6 +2,9 @@
 3D adaption of the classic bomberman game
 https://www.retrogames.cz/play_085-NES.php?emulator=js
 
+This was a group project I worked on during my time at WeThinkCode_
+We all applied what we had learned in our first internships surround an agile way of working and handling splitting up a project in a way that 7 people were able to work on it.
+
 ## Dependancies
 * CMake
 * pkg-config
